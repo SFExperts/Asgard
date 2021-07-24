@@ -1,5 +1,5 @@
 public class AccountHandler {
-    
+    // Edit in GIT-HUB UI
     public static Account insertNewAccount(String accountName){
         Account account = new Account(name=accountName);
         try{
